@@ -84,3 +84,8 @@ main {
     font-family: var(--second-font);
 }
 
+.copyright-text {
+    font-family: var(--second-font);
+    background: white;
+    padding: 40px 500px 40px 10px;
+}
