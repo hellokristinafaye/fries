@@ -16,6 +16,13 @@ header h1 {
     padding: 40px;
 }
 
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background: var(--second-color);
+    align-items: center;
+}
 .nav-link {
     font-family: "PT Sans Narrow";
     text-decoration: none;
