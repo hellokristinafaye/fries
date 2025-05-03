@@ -68,3 +68,8 @@ main {
 .article h3 {
     font-family: 
 }
+
+.sidebar {
+    display: block;
+}
+
