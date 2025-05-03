@@ -46,3 +46,12 @@ header h1 {
     color: white;
     padding: 3px 35px;
 }
+
+main {
+    display: flex;
+}
+.article {
+    background: white;
+    padding: 10px;
+    flex-basis: 70%;
+}
