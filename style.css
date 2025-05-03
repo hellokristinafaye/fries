@@ -61,5 +61,6 @@ main {
     padding: 20px;
 }
 .article p {
-    font-family
+    font-family: var(--second-font);
+    padding: 10px;
 }
