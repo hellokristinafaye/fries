@@ -88,4 +88,5 @@ main {
     font-family: var(--second-font);
     background: white;
     padding: 40px 500px 40px 10px;
+    margin-bottom: 50px;
 }
