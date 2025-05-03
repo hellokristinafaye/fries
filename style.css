@@ -54,6 +54,7 @@ main {
     background: white;
     padding: 10px;
     flex-basis: 70%;
+    margin: 15px 15px 15px 0;
 }
 .article h2 {
     font-family: Fascinate;
@@ -65,5 +66,5 @@ main {
     padding: 10px;
 }
 .article h3 {
-    font-family: Fascinate;
+    font-family: 
 }
