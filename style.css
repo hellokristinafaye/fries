@@ -64,3 +64,6 @@ main {
     font-family: var(--second-font);
     padding: 10px;
 }
+.article h3 {
+    font-family: Fascinate;
+}
