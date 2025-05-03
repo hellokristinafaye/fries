@@ -22,6 +22,7 @@ header h1 {
     justify-content: space-around;
     background: var(--second-color);
     align-items: center;
+    padding: 20px;
 }
 .nav-link {
     font-family: "PT Sans Narrow";
