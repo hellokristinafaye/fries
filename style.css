@@ -70,6 +70,9 @@ main {
 }
 
 .sidebar {
-    display: block;
+   background:rgb(49, 177, 177);
+   padding: 20px;
+   flex-basis: 25%;
+   margin: 15px 0;
 }
 
