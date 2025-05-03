@@ -42,5 +42,7 @@ header h1 {
 }
 .search-btn {
     font-family: var(--second-font);
-    
+    background: rgb(56, 55, 55);
+    color: white;
+    padding: 3px 35px;
 }
